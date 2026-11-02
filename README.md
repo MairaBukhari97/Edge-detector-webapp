@@ -110,6 +110,4 @@ Uses the second derivative of intensity, so it responds to changes in every dire
 
 ---
 
-✅ **Enjoy exploring edge detection interactively!** 🎨
-
 
